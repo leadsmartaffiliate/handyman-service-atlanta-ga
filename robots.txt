@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handyman-service-atlanta-ga.netlify.app/sitemap.xml
